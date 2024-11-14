@@ -46,7 +46,7 @@
 
 ## Setup and run
 
-1. `git clone https://github.com/ToniGrgurevic/ri.git` into your
+1. `git clone https://github.com/ChrisKnorri/tilde.git` into your
    workspace's `src` directory
 2. Install the required dependencies using
    `rosdep install -i --from-path src --rosdistro humble -y`
